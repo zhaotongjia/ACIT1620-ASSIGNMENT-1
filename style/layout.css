@@ -69,11 +69,12 @@ article p{
 }
 
 .text-area i {
-    position:absolute;
-    top:100px;
+    position:relative;
+    bottom:80px;
 }
-.text-button button{
-    text-align: right;
+
+.text-button{
+    margin-left: 50px;
 }
 
 footer{
